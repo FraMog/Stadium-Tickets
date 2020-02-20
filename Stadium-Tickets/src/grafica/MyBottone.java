@@ -11,7 +11,7 @@ import utenti.*;
  * Questa classe definisce le caratteristiche di un Bottone da visualizzare nel PartitaFrame.
  * @author Mogavero
  *
- */
+ */ 
 public class MyBottone extends JButton {
 
 	/**
